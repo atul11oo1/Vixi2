@@ -1,0 +1,8 @@
+{
+  "name": "VIXI Health System",
+  "description": "Premium healthcare management app with AI report analysis, secure QR sharing, and emergency ambulance services.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
